@@ -1,0 +1,29 @@
+# ALLOWED_CHARACTERS = "()-0987654321"
+#
+# def is_valid_phone_number(phone):
+#     number_of_digits = 0
+#     for char in phone:
+#         if char not in ALLOWED_CHARACTERS:
+#             return False
+#         if char.isdigit():
+#             number_of_digits += 1
+#     if number_of_digits < 8 or number_of_digits > 10:
+#         return False
+#     return True
+#
+#
+# def run_tests():
+#     print("These should be false:")
+#     print(is_valid_phone_number(""))
+#     print(is_valid_phone_number("(07) 4918"))
+#     print(is_valid_phone_number("(07) 4918a"))
+#
+#
+# run_tests()
+
+# words = {"synergy", "cloud", "cloud", "energise"}   #set
+# print("You used these 3 words: synergy, cloud, cloud")
+# print(f"You used these {len(words)} words:{', '.join(words)}")
+
+
+# input_flene

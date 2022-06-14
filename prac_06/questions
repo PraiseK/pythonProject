@@ -1,0 +1,18 @@
+QUICK QUESTIONS
+1. Ctrl+/
+2. The Single Responsibility Principal
+3. return
+4. An argument is a piece of data that is sent into a function
+whilst, a  Parameter is what we call the variable inside the function that is assigned the value
+ of an argument when the function is called.
+5. randint
+6. randint, main, get_age, print_line
+7. 2
+
+GOOD NAMES
+1. determine_grade
+2.convert_currency
+3. print_report
+4. calculate_average
+5. is_even
+6. get_salary, is_positive

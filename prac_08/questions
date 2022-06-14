@@ -1,0 +1,24 @@
+QUICK QUESTIONS
+1. difference between the tuples and lists is that while
+ the tuples are immutable objects the lists are mutable
+2. Name them with plural terms
+3. Cities
+4. they contain multiple elements, unlimited
+5. False
+6. used to return the length of a collection
+
+
+LISTS WARMUP 1
+numbers[0] =10
+numbers[-1]= 81
+numbers[3] = 81
+20 in numbers= True
+1 in numbers = False
+numbers[1] + numbers[2] = 60
+len(numbers) = 4
+
+LISTS WARMUP 2
+1. numbers[1] = 2
+2. numbers[-1] = 4
+3. 1 in numbers
+4. print(numbers[1] * 10)

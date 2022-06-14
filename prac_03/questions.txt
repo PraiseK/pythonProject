@@ -1,0 +1,20 @@
+QUICK QUESTIONS
+1. !=
+2. <=
+3. True
+4. True
+5. False
+6. True
+
+PATTERNS
+1. if if if
+2. if else
+3. if elif else
+4. if elif no else
+5. if else
+6. if else
+7. if elif else
+
+LOGIC EXERCISE
+Bill is the youngest
+Alice is the oldest

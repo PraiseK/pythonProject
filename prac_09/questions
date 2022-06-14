@@ -1,0 +1,10 @@
+Quick Questions
+1. The 'r' is for reading a file whilst the 'w' is for writing a file
+2. file object provides methods and attributes to access and manipulate files whilst,
+    a file name is just a text string containing the name of the file which has file contents.
+3. The close() method of a file object flushes any unwritten information and closes the file object, after which no more writing can be done.
+4.
+5. 5
+
+Logic Exercises
+1. 2 false statements
