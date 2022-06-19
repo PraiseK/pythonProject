@@ -13,3 +13,4 @@ if age % 2:
     print(f'{age} is odd')
 else:
     print(f'{age} is even')
+    print(.)
